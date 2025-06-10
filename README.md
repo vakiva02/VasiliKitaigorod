@@ -1,4 +1,4 @@
-# VasiliKitaigorod
+# Vasili_Kitaigorod
 Personal Information
 
 ## 👋 Hi, I’m Vasili!
